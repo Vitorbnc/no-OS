@@ -35,7 +35,7 @@
 #include <sleep.h>
 #ifdef _XPARAMETERS_PS_H_
 #include "no_os_util.h"
-#include "xtime_l.h"
+#include "xiltimer.h"
 #endif
 
 /**
